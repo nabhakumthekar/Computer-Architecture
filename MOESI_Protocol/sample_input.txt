@@ -1,0 +1,12 @@
+0r0
+0r1
+0r2
+0r3
+1r0
+0w0
+2w1
+0w0
+2w0
+1r3
+
+Each line of input will have the following three columns:● Cache number (0, 1, 2)● Command (r for read, w for write)● Line number (0, 1, 2, 3)
