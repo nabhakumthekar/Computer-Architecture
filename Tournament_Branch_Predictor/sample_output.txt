@@ -1,0 +1,3 @@
+0nnlnn1nnlnt7nnlnn8nnlnt3nnlnn
+
+On each line:• The first character is the program address of the branch being predicted.• The second character is the local prediction: ‘t’ if taken, ‘n’ if not taken.• The third character is the global prediction: ‘t’ if taken, ‘n’ if not taken.• The fourth character is the selector prediction: ‘l’ if local, ‘g’ if global.• The fifth character is the final prediction: ‘t’ if taken, ‘n’ if not taken.• The sixth character is the actual direction of the branch: ‘t’ if taken, ‘n’ if not taken.

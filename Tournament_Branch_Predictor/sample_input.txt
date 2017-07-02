@@ -1,0 +1,3 @@
+0n11t77n88t33n4
+
+On each line:• The first character is the address of the branch being executed.• The second character is ‘n’ if the branch was not resolved to be taken or ‘t’ if the branchwas resolved to be taken. This field indicates the true (non-speculative) direction of thebranch.• The third character is the address of the next instruction executed (the target if taken, thefall-through address otherwise).
